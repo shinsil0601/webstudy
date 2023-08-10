@@ -1,0 +1,6 @@
+INDEX VERSION 1.132+D:\webStudy\.metadata\.plugins\org.eclipse.jdt.core
+466508549.index
+2207266649.index
+2086468905.index
+616862274.index
+1865797976.index

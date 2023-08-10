@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript">
+	var s1 = 10;
+	var s2 = 6;
+	document.write("<h2>");
+	document.write("<li>"+(s1+s2)+"</li>");
+	document.write("<li>"+(s1-s2)+"</li>");
+	document.write("<li>"+(s1*s2)+"</li>");
+	document.write("<li>"+(s1/s2)+"</li>");
+	document.write("<li>"+(s1%s2)+"</li>");
+	document.write("<hr>");
+	
+	s1 = "10";
+	s2 = "6";
+	document.write("<li>"+(s1+s2)+"</li>"); // 계산X, 문자 연결자
+	document.write("<li>"+(s1-s2)+"</li>"); // 계산가능
+	document.write("<li>"+(s1*s2)+"</li>"); // 계산가능
+	document.write("<li>"+(s1/s2)+"</li>"); // 계산가능
+	document.write("<li>"+(s1%s2)+"</li>"); // 계산가능
+	document.write("<hr>");
+	document.write("</h2>");
+	
+	
+	
+	
+</script>
+</head>
+<body>
+
+</body>
+</html>

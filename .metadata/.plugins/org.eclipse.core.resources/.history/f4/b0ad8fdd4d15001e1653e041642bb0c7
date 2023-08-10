@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>배열: Array()</title>
+<script type="text/javascript">
+	// 배열: 크기를 지정하지 않아도 된다. 모든 자료를 담을 수 있다.
+	
+	// 방법1
+	var arr = new Array();
+	arr[0] = 10;
+	arr[1] = true;
+	arr[2] = 'A';
+	arr[3] = '한국 ict 인재 개발원';
+	arr[4] = 167.21;
+	
+	// 출력
+	for (var i = 0; i < array.length; i++) {
+		document.write(arr[i]+"&nbsp;&nbsp;");
+	}
+	document.write("<hr>")
+</script>
+</head>
+<body>
+
+</body>
+</html>

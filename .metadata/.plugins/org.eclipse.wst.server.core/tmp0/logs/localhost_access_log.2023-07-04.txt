@@ -1,0 +1,16 @@
+127.0.0.1 - - [04/Jul/2023:17:24:55 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:17:24:55 +0900] "GET /03_JavaScript/day02/ex13_event.html HTTP/1.1" 200 1574
+127.0.0.1 - - [04/Jul/2023:21:32:24 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:21:32:24 +0900] "GET /03_JavaScript/day03/ex12_DOM.html HTTP/1.1" 200 2038
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:21:32:24 +0900] "GET /03_JavaScript/images/tree-1-thumb.jpg HTTP/1.1" 200 4588
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:21:32:24 +0900] "GET /03_JavaScript/images/tree-3-thumb.jpg HTTP/1.1" 200 5558
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:21:32:24 +0900] "GET /03_JavaScript/images/tree-1.jpg HTTP/1.1" 200 94974
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:21:32:24 +0900] "GET /03_JavaScript/images/tree-4-thumb.jpg HTTP/1.1" 200 5078
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:21:32:24 +0900] "GET /03_JavaScript/images/tree-5-thumb.jpg HTTP/1.1" 200 5911
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:21:32:24 +0900] "GET /03_JavaScript/images/tree-2-thumb.jpg HTTP/1.1" 200 4206
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:21:32:24 +0900] "GET /03_JavaScript/images/tree-6-thumb.jpg HTTP/1.1" 200 8936
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:21:32:30 +0900] "GET /03_JavaScript/images/tree-2.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:21:32:31 +0900] "GET /03_JavaScript/images/tree-3.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:21:32:32 +0900] "GET /03_JavaScript/images/tree-4.jpg HTTP/1.1" 200 91064
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:21:32:33 +0900] "GET /03_JavaScript/images/tree-5.jpg HTTP/1.1" 200 73273
+0:0:0:0:0:0:0:1 - - [04/Jul/2023:21:32:34 +0900] "GET /03_JavaScript/images/tree-6.jpg HTTP/1.1" 200 161648

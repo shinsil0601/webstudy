@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style type="text/css">
+	#container{
+		width: 500px;
+		margin: auto;
+	}
+</style>
+</head>
+<body>
+	<div id="container">
+		<img id="cover" src="../images/cup-1.png">
+	</div>
+	<script type="text/javascript">
+		var cover = document.getElementById("cover");
+		cover.addEventListener("click", function() {
+			cover.src="../images/cup-1.png"
+		});
+		/* cover.addEventListener("click", function() {
+			cover.src="../images/cup-2.png"
+		}); */
+		
+	</script>
+</body>
+</html>

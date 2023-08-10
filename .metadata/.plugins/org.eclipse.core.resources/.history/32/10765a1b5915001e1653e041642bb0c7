@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>function() : 함수</title>
+<script type="text/javascript">
+	function test1() {
+		document.write("Hi~~~");
+	}
+	function test1() {
+		document.write("Hello!!!<br>");
+	}
+	
+	test1();
+	
+</script>
+</head>
+<body>
+
+</body>
+</html>

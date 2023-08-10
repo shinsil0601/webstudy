@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style type="text/css">
+	#myBox{
+		background-color: yellow;
+	}
+</style>
+</head>
+<body>
+	<div id="myBox">
+		<p id="p1">이것은 DOM 연습 입니다.</p>
+		<p id="p1">이것은 DOM 연습 입니다.</p>
+	</div>
+<script type="text/javascript">
+	// html 요소 추가 및 삭제
+	// document.createElement(element)  : element 태그 생성
+	// document.createText(text)		: text 생성
+	// document.appendChild(element)	: 자식요소 추가
+	// .append(element)					: 요소 추가
+	// document.removeChild(element)	: 자식요소 삭제
+	// .remove(element)					: 요소 삭제
+	
+</script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>객체 : Object</title>
+<script type="text/javascript">
+	// 자바스크립트에서 객체를 Object라고 한다.
+	// 객체 : property(속성=상태값)과 function(기능)을 가지고 있다.
+	
+	//방법1
+	var obj = new Object();
+	//상태값
+	obj["name"] = "홍길동";
+	obj["age"] = 14;
+	obj["addr"] = "서울";
+	obj["salary"] = 3600;
+	
+	document.write("<p>"+ obj["name"] +"</p>");
+	document.write("<p>"+ obj["age"] +"</p>");
+	document.write("<p>"+ obj["addr"] +"</p>");
+	document.write("<p>"+ obj["salary"] +"</p>");
+	
+	// 방법2
+	var obj2 = {name:"임꺽정", age:37, addr:"함경도", salary:5200};
+	document.write("<p>"+ obj2["name"] +"</p>");
+	document.write("<p>"+ obj2["age"] +"</p>");
+	document.write("<p>"+ obj2["addr"] +"</p>");
+	document.write("<p>"+ obj2["salary"] +"</p>");
+</script>
+</head>
+<body>
+	
+</body>
+</html>

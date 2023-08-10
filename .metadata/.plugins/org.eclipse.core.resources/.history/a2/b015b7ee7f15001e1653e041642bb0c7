@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<div style="margin: auto; width: 300px; padding: 20px;">
+		<button onclick="setRed()">RED</button>
+		<button onclick="setGreen()">GREEN</button>
+		<button onclick="setBlue()">BLUE</button>
+	
+	</div>
+</body>
+</html>
